@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dheeraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Turning coffee into code ☕💻, one bug at a time 🐛.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlnicoz&label=Profile%20views&color=0e75b6&style=flat" alt="dlnicoz" /> </p>
 
-- 🔭 I’m currently working on **socialnaka**
+- 🔭 I’m currently working on **[socialnaka](https://github.com/dlnicoz/Social-Naka)**
 
-- 🌱 I’m currently learning **mern**
+- 🌱 I’m currently learning **more react libraries**
 
-- 👯 I’m looking to collaborate on **socialnaka**
+- 👯 I’m looking to collaborate on **[socialnaka](https://github.com/dlnicoz/Social-Naka)**
 
-- 🤝 I’m looking for help with **nearlybiz**
+- 👨‍💻 All of my projects are available at [dheeraj.sahani.dev](https://dheeraj.sahani.dev/)
 
-- 👨‍💻 All of my projects are available at [dheeraj.sahani.dev](dheeraj.sahani.dev)
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sahani.dev@proton.me**
 
-- ⚡ Fun fact **i am motoholic not alocoholic**
+- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
